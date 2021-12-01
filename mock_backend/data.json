@@ -1,0 +1,45 @@
+{
+    "users":[],
+    "venues": [
+        {
+            "id": 1,
+            "name": "Restaurant A",
+            "address": "102 rue de la Paix",
+            "note": 4.7,
+            "votes": 32,
+            "deliveryTime": 1,
+            "price": 120,
+            "picture": "http://unsplash.it/80"
+        },
+        {
+            "id": 2,
+            "name": "Restaurant B",
+            "address": "102 rue de la Paix",
+            "note": 4.7,
+            "votes": 32,
+            "deliveryTime": 1,
+            "price": 120,
+            "picture": "http://unsplash.it/80"
+        },
+        {
+            "id": 3,
+            "name": "Restaurant C",
+            "address": "102 rue de la Paix",
+            "note": 4.7,
+            "votes": 32,
+            "deliveryTime": 1,
+            "price": 120,
+            "picture": "http://unsplash.it/80"
+        },
+        {
+            "id": 3,
+            "name": "Restaurant D",
+            "address": "102 rue de la Paix",
+            "note": 4.7,
+            "votes": 32,
+            "deliveryTime": 1,
+            "price": 120,
+            "picture": "http://unsplash.it/80"
+        }
+    ]
+}
