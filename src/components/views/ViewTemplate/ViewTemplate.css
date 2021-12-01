@@ -1,1 +1,5 @@
 .ViewTemplate {}
+
+.ViewTemplate img.rounded-circle {
+    height:75px;
+}

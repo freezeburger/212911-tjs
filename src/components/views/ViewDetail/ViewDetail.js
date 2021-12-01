@@ -1,11 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './ViewDetail.css';
+import ViewTemplate from '../ViewTemplate/ViewTemplate'
 
 const ViewDetail = () => (
-  <div className="ViewDetail" data-testid="ViewDetail">
-    ViewDetail Component
-  </div>
+  <ViewTemplate title="Detail">
+    View Detail
+  </ViewTemplate>
 );
 
 ViewDetail.propTypes = {};

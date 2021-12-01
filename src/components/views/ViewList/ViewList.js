@@ -1,11 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './ViewList.css';
+import ViewTemplate from '../ViewTemplate/ViewTemplate'
+import { VenueList } from '../../features';
+
 
 const ViewList = () => (
-  <div className="ViewList" data-testid="ViewList">
-    ViewList Component
-  </div>
+  <ViewTemplate title="List">
+    <VenueList></VenueList>
+  </ViewTemplate>
 );
 
 ViewList.propTypes = {};
